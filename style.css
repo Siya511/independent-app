@@ -1,0 +1,43 @@
+body
+{
+  background-image: url("bachground.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1
+{
+	text-align: center;
+	text-shadow: 2px 2px #ff0000;
+}
+#first
+{
+	padding-left: 10%;
+}
+.vl 
+{
+	border-left: 1px solid white;
+    height: 550px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 13%;
+}
+a
+{
+	color: black;
+}
+#second
+{
+	padding-left: 60%;
+  padding-top: 10%;
+  
+}
+
+.second {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 18px;
+  padding-right: 10%;
+  padding-top: 12%;
+}
